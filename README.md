@@ -43,6 +43,18 @@ This approach significantly reduces file visibility and exposure, rendering them
 
 ---
 
+## 📖 References
+
+This work builds upon the ideas presented in:
+
+S. Lee, S. Lee, J. Park, K. Kim and K. Lee,  
+**"Hiding in the Crowd: Ransomware Protection by Adopting Camouflage and Hiding Strategy With the Link File"**  
+*IEEE Access, vol. 11, pp. 92693–92704, 2023.*  
+[DOI: 10.1109/ACCESS.2023.3309879](https://doi.org/10.1109/ACCESS.2023.3309879)
+
+
+---
+
 ## ⚖️ License
 
 This documentation is licensed under the  
