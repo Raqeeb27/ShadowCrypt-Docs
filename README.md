@@ -43,11 +43,29 @@ This approach significantly reduces file visibility and exposure, rendering them
 
 ---
 
+## ⚖️ License
+
+This documentation is licensed under the  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+🔗 [View Full License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+---
+
 ## 📥 How to Use This Repo
 
 To view:
 - Open `MajorProject-Report-ShadowCrypt.pdf` for the complete write-up.
-- View or download the PowerPoint presentation when available.
+- View or download the PowerPoint presentation.
 - Use the `images/` folder for visuals used in documentation.
 
 ---
